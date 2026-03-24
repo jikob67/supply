@@ -1,0 +1,9 @@
+{
+  "name": "supply",
+  "description": "منصة تسويق تساعدك في العثور على أكبر عدد ممكن من المستخدمين لمشاريعك، بغض النظر عن نوعها وتصنيفها في تطبيق supply.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
